@@ -1,10 +1,5 @@
 # Online Quiz An Online Test Application in Angular
 
-## Table of contents
-- [General info](#general-info)
-- [Using the application](#using-the-application)
-- [Technologies Used](#technologies-used)
-
 ## General Info
 Online Quiz is Online Test Application platform which enables users to test their knowledge by giving quizzes.
 
